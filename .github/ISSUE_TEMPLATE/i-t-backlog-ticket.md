@@ -2,7 +2,7 @@
 name: I&T Backlog Ticket
 about: New tickets to be added to I&T backlog
 title: ''
-labels: B12.1, i&t-backlog, needs:triage
+labels: B13.0, i&t-backlog, needs:triage
 assignees: viviant100
 
 ---
